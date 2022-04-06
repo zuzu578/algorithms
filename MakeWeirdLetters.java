@@ -3,7 +3,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Test {
-	
+	// 이상한 문자만들기 lv1 
+	// https://programmers.co.kr/learn/courses/30/lessons/12930
 	public static void main(String[] args) {
 		List<String> a1 = new ArrayList<String>();
 		String s = "try hello world";
